@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/drawable-anydpi/ic_coin.xml" value="0.167" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.31084656084656087" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout-w936dp/activity_login.xml" value="0.27049180327868855" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout/activity_trader.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout/coin_info.xml" value="0.1" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout/content_trader.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout/crypto_row.xml" value="0.1" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/joels/Documents/KotlinCryptoTrade/app/src/main/res/layout/fragment_second.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

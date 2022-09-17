@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775803763544",
+    "project_id": "kotlin-crypto-app",
+    "storage_bucket": "kotlin-crypto-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775803763544:android:feef31bd4bdaa42b6f432d",
+        "android_client_info": {
+          "package_name": "dev.jsantos.kotlincryptotrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775803763544-6upjn90no44ovi63g5vd8fh5m5o3c6k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0JDknZN7i92826cRX41HYKqRbkQ_g9xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775803763544-6upjn90no44ovi63g5vd8fh5m5o3c6k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
